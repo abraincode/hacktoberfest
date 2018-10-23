@@ -25,7 +25,7 @@ Hacktoberfest DSC Chapter STT Nurul Fikri
 5. [Create a pull request](https://github.com/abraincode/hacktoberfest/pulls)
 
 ### Example file 🎃
-path: `gitogether/(username).html`
+path: `gitogether/(time)/(username).html`
 ```html
 Nama: Dhimas Akbar Noor Baihaque
 Prodi: Sistem Informasi
@@ -35,7 +35,7 @@ Harapan: Semoga bajunya lebih bagus dari tahun sebelumnya.
 
 ## Hall of Fame :fire:
 
-Check out the [Hall of Fame](https://abraincode.github.io/hacktoberfest/contributors) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
+Check out the [Hall of Fame](https://abraincode.github.io/hacktoberfest/Contributors) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
 
 ## Source
 
