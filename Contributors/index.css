@@ -1,0 +1,33 @@
+body {
+    background-color: #303030;
+    padding: 0;
+    margin: 0;
+    color: #E8E8E8;
+}
+
+h1, h3 {
+    text-align: center;
+    margin-top: 0;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
+
+h3 {
+    margin-bottom: 25px;
+}
+
+.template {
+    display: none;
+}
+
+#author {
+    padding: 2%;
+    min-height: 55vh;
+    max-height: 55vh;
+}
+
+#wrap {
+    min-height: 55vh;
+}
