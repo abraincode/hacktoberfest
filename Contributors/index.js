@@ -3,7 +3,6 @@ var i = 0;
 
 var getData = (function ($) {
     var URL = 'https://api.github.com/repos/abraincode/hacktoberfest/contributors'
-
     $.get(URL, function (data, status) {
         data.forEach(function (d) {
             if (d.login == null) {
@@ -18,7 +17,8 @@ var getData = (function ($) {
                     '</a>' +
                     "<div class='caption'>" +
                     '<strong>' + d.login + '</strong>' +
-                    '<p> Contributions: ' + d.contributions + '</p>' +
+                    '<p class="pcontr"> &nbsp&nbspContributions:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span class="contr">'
+                     + d.contributions + '&nbsp&nbspcontr.</span>'+ '</p>' +
                     '</div></div></div>';
 
                 $('#contributors').append(template);
