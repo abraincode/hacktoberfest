@@ -1,0 +1,340 @@
+[33mcommit cd9727dd46d32b3ef69db09d192393aa61d56873[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Faris <farisarrasyid78@gmail.com>
+Date:   Sat Oct 12 14:17:15 2019 +0700
+
+    Tambah file faris
+
+[33mcommit d65740092522450fb26285bcc3bfc435da2b21ca[m
+Merge: 4cd7642 286dfe4
+Author: Dhimas Akbar Noor Baihaque <dhimasanb@gmail.com>
+Date:   Thu Oct 10 11:38:19 2019 +0700
+
+    Merge pull request #15 from mAlwiMhfd/master
+    
+    harapan
+
+[33mcommit 4cd76420a754f2ef8a7d260e39226bc5a1454c09[m
+Merge: 2b559ec 4cb33f2
+Author: Dhimas Akbar Noor Baihaque <dhimasanb@gmail.com>
+Date:   Thu Oct 10 11:37:52 2019 +0700
+
+    Merge pull request #10 from dianynf/dian
+    
+    hacktoberfest
+
+[33mcommit 2b559ec64af10d983f23747c183db4b647914055[m
+Merge: 7d70a4e 66e81f8
+Author: Dhimas Akbar Noor Baihaque <dhimasanb@gmail.com>
+Date:   Thu Oct 10 11:37:33 2019 +0700
+
+    Merge pull request #18 from immanishbainsla/patch-1
+    
+    Create manish_bainsla.html
+
+[33mcommit 7d70a4e6d74f12c4e59e5e519b3669db9a68d40d[m
+Merge: 8cb8598 63d22d1
+Author: Dhimas Akbar Noor Baihaque <dhimasanb@gmail.com>
+Date:   Thu Oct 10 11:34:36 2019 +0700
+
+    Merge pull request #17 from dikaMuharman/master
+    
+    Create dika html page
+
+[33mcommit 66e81f8b72f625d7e409711b28e511c13d42630c[m
+Author: Manish Bainsla <manishbainsla1072@gmail.com>
+Date:   Wed Oct 9 22:32:02 2019 +0530
+
+    Create manish_bainsla.html
+
+[33mcommit 63d22d12c2514a0329f8a9630a6e9f4397185ac1[m
+Author: dika <dika1254@gmail.com>
+Date:   Wed Oct 9 05:19:42 2019 +0700
+
+    Create dika html page
+
+[33mcommit 286dfe492257a0a19134816253c2e5f147fe9f34[m
+Author: mAlwiMhfd <muhammadalwi27@gmail.com>
+Date:   Sun Oct 6 18:48:21 2019 +0700
+
+    Update alwi.html
+
+[33mcommit 8cb859854351a804e6f94f4dfececdd5c6b42ea7[m
+Merge: bc42f92 c53d231
+Author: Muh Isfhani Ghiath <isfaaghyth@gmail.com>
+Date:   Sun Oct 6 16:16:09 2019 +0700
+
+    Merge pull request #12 from dhimasanb/feature/add-avatar
+    
+    Add awesome avatar
+
+[33mcommit bc42f922f44c65b28df1151ea77552c0ab62bd27[m
+Merge: a5e51d0 89361d7
+Author: Muh Isfhani Ghiath <isfaaghyth@gmail.com>
+Date:   Sun Oct 6 16:14:27 2019 +0700
+
+    Merge pull request #16 from dhimasanb/feature/dhimas-joined-the-hacktoberfest-event
+    
+    Feature/dhimas joined the hacktoberfest event
+
+[33mcommit c53d231f801e595b3d2314352ca5781385029312[m
+Author: Dhimas Akbar N.B <dhimasanb@gmail.com>
+Date:   Sun Oct 6 16:00:15 2019 +0700
+
+    Change URL avatar
+
+[33mcommit 89361d7005251763ff411142c611710c82d72776[m
+Author: Dhimas Akbar N.B <dhimasanb@gmail.com>
+Date:   Sun Oct 6 14:32:43 2019 +0700
+
+    Dhimas memberikan kesan
+
+[33mcommit 4b7b34265ed44876bce20d539b1b0fac6c6da307[m
+Author: Dhimas Akbar N.B <dhimasanb@gmail.com>
+Date:   Sun Oct 6 14:30:30 2019 +0700
+
+    Change to HTML style
+
+[33mcommit a5e51d0418f1967b3d48a7582289925899726904[m
+Merge: 6f33cc8 7eef02e
+Author: Muh Isfhani Ghiath <isfaaghyth@gmail.com>
+Date:   Sat Oct 5 15:52:55 2019 +0700
+
+    Merge pull request #14 from orestotel/master
+    
+    Improve Contributors design
+
+[33mcommit 525c04e92f1f75d9bb1ca2999f57599713877cc9[m
+Author: mAlwiMhfd <muhammadalwi27@gmail.com>
+Date:   Sat Oct 5 08:43:50 2019 +0700
+
+    harapan
+
+[33mcommit 7eef02e2313fac52f94b39426df0a883847a8396[m
+Author: Orest Karpiak <orekpk@gmail.com>
+Date:   Fri Oct 4 22:57:52 2019 +0300
+
+    Improve Contributors design
+    
+    Add animations, transitions, improve generated cuntributors boxes styling
+
+[33mcommit 9cd824ac6bc8d75b89e470b53c43cc81ad1cbd5a[m
+Author: Dhimas Akbar N.B <dhimasanb@gmail.com>
+Date:   Thu Oct 3 22:12:53 2019 +0700
+
+    Add awesome avatar
+
+[33mcommit 6f33cc824530259b49980422badcf3b6e4fb587e[m
+Merge: 241ebea 31748b6
+Author: Muh Isfhani Ghiath <isfaaghyth@gmail.com>
+Date:   Thu Oct 3 21:59:11 2019 +0700
+
+    Merge pull request #11 from abraincode/isfha
+    
+    make a isfha html page
+
+[33mcommit 31748b6563cb7912723823e2dec4709506eb86ae[m
+Author: Muh Isfhani Ghiath <isfaaghyth@gmail.com>
+Date:   Thu Oct 3 21:58:53 2019 +0700
+
+    make a isfha html page
+
+[33mcommit 4cb33f226eeb2161c6b48e16abf860af4fa1343a[m
+Author: dianynf <dianbugas@gmail.com>
+Date:   Tue Oct 1 14:24:38 2019 +0700
+
+    hacktoberfest
+
+[33mcommit 241ebeab048d7dbe595533cd47af172a576d7706[m
+Merge: cb7f66d 257d61c
+Author: Muh Isfhani Ghiath <isfaaghyth@gmail.com>
+Date:   Wed Oct 31 22:33:52 2018 +0700
+
+    Merge pull request #9 from ismailrr/master
+    
+    Upload initial file ismailrr.html
+
+[33mcommit 257d61c19e525efb7bcac681ae169b21adebe7e1[m
+Author: Ismail Raji <ismailrajira@gmail.com>
+Date:   Wed Oct 31 22:24:29 2018 +0700
+
+    Upload file ismailrr_kesan.html
+
+[33mcommit 40dadb6ecc640026b392a5cc7f5fc68c11f3df44[m
+Author: Ismail Raji <ismailrajira@gmail.com>
+Date:   Wed Oct 31 22:19:21 2018 +0700
+
+    Upload initial file ismailrr.html
+
+[33mcommit cb7f66d69c9a940b5bbd6575cdd5ac05e6932a55[m
+Merge: 6c7ad2c 17c13c9
+Author: Dhimas Akbar Noor Baihaque <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 30 23:29:50 2018 +0700
+
+    Merge pull request #8 from AzmiFaiz/faiz
+    
+    menambah kesan faiz
+
+[33mcommit 17c13c94dc031f15de076b140981f2bbff6f54ac[m
+Author: AzmiFaiz <amfibifaiz@gmail.com>
+Date:   Tue Oct 30 23:13:06 2018 +0700
+
+    menambah alasan masuk nf
+
+[33mcommit a8d4e48e77178b2fb8f4f9e5ea35c2068a72fa80[m
+Author: AzmiFaiz <amfibifaiz@gmail.com>
+Date:   Tue Oct 30 18:05:06 2018 +0700
+
+    menambah kesan faiz
+
+[33mcommit 6c7ad2c09d57d9f3b764bb3c848d235298d29630[m
+Merge: 4634bdc a24b93e
+Author: Muh Isfhani Ghiath <isfaaghyth@gmail.com>
+Date:   Fri Oct 26 23:43:39 2018 +0700
+
+    Merge pull request #7 from aufaroot18/master
+    
+    Add aufa
+
+[33mcommit a24b93e7a2fa3903a0f62b45d570bb3686a9062a[m
+Author: Aufa Billah <aufaroot18@gmail.com>
+Date:   Fri Oct 26 23:42:11 2018 +0700
+
+    Add aufa
+
+[33mcommit 4634bdc9e19be2acdb9bacd8c439c01973f7e865[m
+Merge: f19807b 41cac3c
+Author: Dhimas Akbar Noor Baihaque <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Thu Oct 25 17:38:18 2018 +0700
+
+    Merge pull request #6 from luqni/master
+    
+    update kesan
+
+[33mcommit 41cac3c860cd7724ab7c78ddd493662e8d96dcd4[m
+Author: Muhammad Luqni Baehaqi <mluqnibaehaqi@gmail.com>
+Date:   Thu Oct 25 09:58:37 2018 +0700
+
+    update kesan
+
+[33mcommit f19807b14df961b1c9da92b37a3042ce424be86b[m
+Merge: 1432ace d0ad9c9
+Author: Dhimas Akbar Noor Baihaque <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Wed Oct 24 19:16:50 2018 +0700
+
+    Merge pull request #5 from auzanassdq/master
+    
+    add new file
+
+[33mcommit 1432ace4335bf02049f4ee5735dc6768de4355dd[m
+Merge: 62208ee e101c39
+Author: Dhimas Akbar Noor Baihaque <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Wed Oct 24 19:16:22 2018 +0700
+
+    Merge pull request #4 from luqni/master
+    
+    upload new file.htm
+
+[33mcommit d0ad9c96c0c5ee3083a4081c213baedc135a3602[m
+Author: Auzan <auzanassidqi@gmail.com>
+Date:   Wed Oct 24 18:48:32 2018 +0700
+
+    add new file
+
+[33mcommit e101c39fa3443cd625399b31cdca65c82869de93[m
+Author: Muhammad Luqni Baehaqi <mluqnibaehaqi@gmail.com>
+Date:   Wed Oct 24 17:33:42 2018 +0700
+
+    add file kesan
+
+[33mcommit eb444aa0e4fa1f36c446ba47a6a9ad99bab4c3df[m
+Author: Muhammad Luqni Baehaqi <mluqnibaehaqi@gmail.com>
+Date:   Wed Oct 24 17:16:57 2018 +0700
+
+    data harapan
+
+[33mcommit 9720f9da5dbd66dee955ed0a728b53f6b35f1934[m
+Author: Muhammad Luqni Baehaqi <mluqnibaehaqi@gmail.com>
+Date:   Wed Oct 24 17:12:53 2018 +0700
+
+    upload new file.htm
+
+[33mcommit 62208eecb0660fff3d90602c22c3af33f15a7902[m
+Merge: b2ebb8a 9a49d11
+Author: Dhimas Akbar Noor Baihaque <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Wed Oct 24 15:15:58 2018 +0700
+
+    Merge pull request #3 from ChoniyuAzwan/master
+    
+    menambah data nama dan prodi
+
+[33mcommit 9a49d11b9f954ae58e1c6b06ed75b4fa38b80d3f[m
+Author: choniyuazwan <choniyuazwan@gmail.com>
+Date:   Wed Oct 24 15:00:32 2018 +0700
+
+    menambah data semester dan harapan
+
+[33mcommit 3a9ff47c21e1df3deea9e46be1e7c5f7f3b3b665[m
+Author: choniyuazwan <choniyuazwan@gmail.com>
+Date:   Wed Oct 24 14:54:06 2018 +0700
+
+    menambah data nama dan prodi
+
+[33mcommit b2ebb8afbbee123418a0273d5bd6e77f9e401ca4[m
+Merge: e3bd0f5 f8e9d47
+Author: Dhimas Akbar Noor Baihaque <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 23 20:34:11 2018 +0700
+
+    Merge pull request #2 from dhimasanb/master
+    
+    Capitalize contributors
+
+[33mcommit f8e9d4773366efa862856f2b691ae6c32acdf965[m
+Author: Dhimas Akbar N.B <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 23 20:33:05 2018 +0700
+
+    Capitalize contributors
+
+[33mcommit e3bd0f5d375a6daeaedb2d84eee4b9ef6a4366b2[m
+Merge: 5d4cf35 5639678
+Author: Dhimas Akbar Noor Baihaque <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 23 20:25:12 2018 +0700
+
+    Merge pull request #1 from dhimasanb/master
+    
+    Example pull request
+
+[33mcommit 5639678b0f464cb4d36476c10092db6377aab1d6[m
+Author: Dhimas Akbar N.B <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 23 20:21:56 2018 +0700
+
+    Create license
+
+[33mcommit 5a2fb1e87e54728489586b753c1a58d7a49befe4[m
+Author: Dhimas Akbar N.B <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 23 20:21:40 2018 +0700
+
+    Create example file
+
+[33mcommit 92e11784c8e8a9a59820ab26c49761d87ba8f32d[m
+Author: Dhimas Akbar N.B <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 23 20:20:50 2018 +0700
+
+    Update contributors page
+
+[33mcommit fa03c9972d0748898ac53f4d4e79ba25b0d42e13[m
+Author: Dhimas Akbar N.B <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 23 20:19:52 2018 +0700
+
+    Update readme
+
+[33mcommit 5d4cf35442110c0977452cd7c3f5fd3c68dee33f[m
+Author: Dhimas Akbar N.B <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 23 19:29:17 2018 +0700
+
+    Create contributor page from https://github.com/abraincode/hacktoberfest
+
+[33mcommit 46d51473f1ac3d95a1b87d04875b76e91e06214d[m
+Author: Dhimas Akbar N.B <dhimasakbarnoorbaihaque@gmail.com>
+Date:   Tue Oct 23 19:24:26 2018 +0700
+
+    Create readme
