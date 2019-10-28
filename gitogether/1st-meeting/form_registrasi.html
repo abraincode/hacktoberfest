@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Registration Form</title>
+</head>
+
+<body>
+    <form action="">
+        <table>
+            <tr>
+                <td>User id </td>
+                <td> : </td>
+                <td><input type="text" name="user" minlength="5" maxlength="12" required></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td> : </td>
+                <td><input type="password" name="pass" minlength="7" maxlength="12" required> </td>
+            </tr>
+            <tr>
+                <td>Name </td>
+                <td> : </td>
+                <td style="width: 350px;"><input type="text" name="nama" pattern="[A-Za-z]{3,}"
+                        title="inputan harus alphabet" required></td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td> : </td>
+                <td> <input type="text"></td>
+            </tr>
+            <tr>
+                <td>Country</td>
+                <td> : </td>
+                <td>
+                    <select name="country">
+                        <option value="ind">Indonesia</option>
+                        <option value="Mly">Malaysia</option>
+                        <option value="Tha">Thailand</option>
+                        <option value="Vtm">Vietnam</option>
+                        <option value="kbj">Kamboja</option>
+                        <option value="las">Laos</option>
+                        <option value="png">Papua Nugini</option>
+                        <option value="Tml">Timor Leste</option>
+                        <option value="usa">Amerika Serikat</option>
+                        <option value="chn">Chine</option>
+                        <option value="jpn">Japan</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Zip code</td>
+                <td> : </td>
+                <td><input type="number" name="code" required></td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td> : </td>
+                <td> <input type="email" name="email" required></td>
+            </tr>
+            <tr>
+                <td>Sex</td>
+                <td> : </td>
+                <td>
+                    <input type="radio" name="sex" value="M" required>Male
+                    <input type="radio" name="sex" value="F" required>Female
+                </td>
+            </tr>
+            <tr>
+                <td>language</td>
+                <td> : </td>
+                <td>
+                    <input type="checkbox" name="lang1" value="x">English
+                    <input type="checkbox" name="lang2" value="x">Non English
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-bottom: 110px;">About</td>
+                <td style="padding-bottom: 110px;"> : </td>
+                <td><textarea name="about" cols="25" rows="8"></textarea></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td style="padding-left: 80px;">
+                    <input type="submit" value="kirim">
+                </td>
+            </tr>
+
+        </table>
+
+    </form>
+
+</body>
+
+</html>
